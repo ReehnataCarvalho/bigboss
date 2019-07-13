@@ -1,0 +1,23 @@
+preto --------------- 36/43
+pretoBranco --------- 35/43
+pretoDourado--------- 35/42
+roxo ---------------- 34/37
+verdeCinzaEscuro ---- 35/42
+verdePreto ---------- 37/43
+vermelhoPreto ------- 37/43
+rosa ---------------- 34/38
+bordo --------------- 35/43
+azulCeleste --------- 35/38
+azulPretoRosa ------- 35/41
+begeVermelho -------- 35/43
+cinzaPreto ---------- 35/42
+cinzaClaroPreto ----- 35/43
+azulRosa ------------ 35/42
+brancoPreto --------- 38/43
+brancoRosaBranco ---- 34/40
+cinzaClaroRosa ------ 34/38
+cinzaAzul ----------- 35/42
+cinzaRosaRosa ------- 34/38
+cinzaRosaClaro ------ 34/38
+lilas --------------- 34/38
+pink ---------------- 34/38
